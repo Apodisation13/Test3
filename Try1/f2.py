@@ -4,4 +4,4 @@ if __name__ == "__main__":
     # a = (5, 3)
     print(summ(*a))
     print(minus(7, 2))
-    print(mul(10, 10))
+    print(mul(4, 4))
