@@ -1,5 +1,5 @@
-def summ(x, y):
-    return x + y
+def summ(x, y, *args):
+    return x + y + sum(args)
 
 
 def minus(x, y):
